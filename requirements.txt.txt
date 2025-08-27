@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+spacy
+fuzzywuzzy
+python-Levenshtein
+pydantic
+en_core_web_sm //English NLP model
+fastapi[all]
